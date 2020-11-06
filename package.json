@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.10",
     "add": "^2.0.6",
+    "express": "^4.17.1",
     "logkitty": "^0.7.1",
     "node-fetch": "^2.6.1",
     "react": "^17.0.1",
